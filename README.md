@@ -75,16 +75,8 @@ Edit
 jupyter notebook housing-price-prediction.ipynb
 ```
 ✅ Requirements
-You can install all necessary packages using the requirements.txt file. Major dependencies include:
+You can install all necessary packages using the requirements.txt file.
 
-txt
-Copy
-Edit
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
 📈 Visualizations
 The notebook includes:
 
